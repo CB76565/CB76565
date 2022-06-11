@@ -1,6 +1,6 @@
 - 👋 Hello there, you stumbled upon an unknown soul's page, I’m @CB76565!
 - 👀 I’m interested in Artificial and machine learning, Game developing, Online curriculum, and a lot others.
-- 🌱 I'm a newbie, always will be, knowledge is eternal🕳️
+- 🌱 I'm a newbie, always will be. Knowledge is eternal🕳️
 - 📫 Teach me my intersts!
 
 <!---
