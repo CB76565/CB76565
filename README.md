@@ -1,7 +1,4 @@
-- 👋 Hello there, you stumbled upon an unknown soul's page, I’m @CB76565!
-- 👀 I’m interested in Artificial and machine learning, Game developing, Online curriculum, and a lot others.
-- 🌱 I'm a newbie, always will be. Knowledge is eternal🕳️
-- 📫 Teach me my intersts!
+Stuff my brain with binary rain🔥
 
 <!---
 CB76565 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
